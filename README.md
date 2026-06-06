@@ -36,7 +36,7 @@ Aplikasi cuaca real-time berbasis React Native (Expo SDK 54) yang menggunakan Op
 
 | Kosong | Loading | Sukses | Home |
 |--------|---------|--------|-------|
-| *(weather-finder\Screenshot\home.jpeg)* | *(weather-finder\Screenshot\Kosong.jpeg)* | *(weather-finder\Screenshot\Loading.jpeg)* | *(weather-finder\Screenshot\SuksesMenemukan.jpeg)* |
+| *(Screenshot/home.jpeg)* | *(Screenshot\Kosong.jpeg)* | *(Screenshot\Loading.jpeg)* | *(Screenshot\SuksesMenemukan.jpeg)* |
 
 ---
 
