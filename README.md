@@ -2,8 +2,6 @@
 
 Aplikasi cuaca real-time berbasis React Native (Expo SDK 54) yang menggunakan Open-Meteo API — **gratis, tanpa API key, tanpa registrasi**.
 
----
-
 ## 📋 Daftar Fitur
 
 ### 🟢 Level 1 — Core (Wajib)
@@ -36,8 +34,10 @@ Aplikasi cuaca real-time berbasis React Native (Expo SDK 54) yang menggunakan Op
 |--------|---------|--------|-------|
 | *(Screenshot/home.jpeg)* | *(Screenshot\Kosong.jpeg)* | *(Screenshot\Loading.jpeg)* | *(Screenshot\SuksesMenemukan.jpeg)* |
 <img width="702" height="1600" alt="home" src="https://github.com/user-attachments/assets/9fca7efa-7e86-4b55-9c8c-c7bf7443b00c" />
+<img width="1080" height="2460" alt="Kosong" src="https://github.com/user-attachments/assets/ba3e4e8e-fb35-462a-b13f-c69737776c0a" />
+<img width="1080" height="2460" alt="Loading" src="https://github.com/user-attachments/assets/56fecb2d-1270-46a0-8c7a-f8ff71c21aea" />
+<img width="350" height="1280" alt="SuksesMenemukan" src="https://github.com/user-attachments/assets/e9ecec26-20d9-48f5-963a-122547ebe8e5" />
 
----
 
 ## 🚀 Cara Menjalankan
 
