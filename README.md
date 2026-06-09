@@ -32,11 +32,10 @@ Aplikasi cuaca real-time berbasis React Native (Expo SDK 54) yang menggunakan Op
 
 ## 📱 Screenshot
 
-> Ambil screenshot dari Expo Go dan tambahkan ke folder `screenshots/`
-
 | Kosong | Loading | Sukses | Home |
 |--------|---------|--------|-------|
 | *(Screenshot/home.jpeg)* | *(Screenshot\Kosong.jpeg)* | *(Screenshot\Loading.jpeg)* | *(Screenshot\SuksesMenemukan.jpeg)* |
+<img width="702" height="1600" alt="home" src="https://github.com/user-attachments/assets/9fca7efa-7e86-4b55-9c8c-c7bf7443b00c" />
 
 ---
 
